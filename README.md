@@ -10,5 +10,8 @@ For users who wish to run the script on a cloud or VM, use the cloud_app.py inst
 feel free to explore alternatives like Heroku and AWS. Setup is similar to the CLI version, just make sure you have
 pyvirtualdisplay as an installed dependency for the cloud setup to work.
 
-Disclaimer: This was meant as a fun pet project and is by no means meant to be abused/ distributed. Use this solely as
-a learning tool. I take no responsibility for any outcomes resulting from the use of this script.
+If you are facing issues with venv, you might have to install Selenium on your own manually.
+
+
+**Disclaimer: This was meant as a fun pet project and is by no means meant to be abused/ distributed. Use this solely as
+a learning tool. I take no responsibility for any outcomes resulting from the use of this script.**
